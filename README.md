@@ -1,6 +1,8 @@
 # Prerequisites
-#
-- JDK 17 
+###
+# test to add tags
+- JDK 21  
+## i t was JDK 17 before i made change
 - Maven 3.9 
 - MySQL 8
 
@@ -10,6 +12,7 @@
 - Spring Security
 - Spring Data JPA
 - Maven
+- Python
 - JSP
 - Tomcat
 - MySQL
@@ -22,5 +25,7 @@ sql dump file:
 - /src/main/resources/db_backup.sql
 - db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < db_backup.sql
+## whats happening ffffff
+
 
 
