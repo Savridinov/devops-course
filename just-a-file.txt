@@ -1,7 +1,0 @@
-Hi [Boss Name],
-
-I've completed [project/task] as of [date]. Deliverables are ready and documented; everything is on track. Please advise if you want any changes or priorities for the next steps.
-
-Thanks,
-[Your Name]
-i made the change here also
